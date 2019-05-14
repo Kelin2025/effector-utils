@@ -1,0 +1,11 @@
+{
+  "name": "effector-utils",
+  "version": "0.1.0",
+  "description": "Utilities librabry on top of Effector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Kosykh <kelin2025@yandex.ru>",
+  "license": "ISC"
+}
