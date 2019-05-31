@@ -1,7 +1,7 @@
 {
   "name": "effector-utils",
   "version": "0.1.0",
-  "description": "Utilities librabry on top of Effector",
+  "description": "Utilities library on top of Effector",
   "keywords": [
     "effector",
     "utils",
