@@ -5,5 +5,8 @@ export const lens = curryN(3, (getter, setter, store) => {
   mapped.on = cb =>
     store.on((state, payload) => setter(state, cb(getter(state), payload)))
 
+  mapped.setState = newState =>
+    store.setState(setter(store.getState(), newState))
+
   return mapped
 })
