@@ -10,6 +10,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:kelin2025/frameninja-utils.git master:gh-pages
+git push -f git@github.com:kelin2025/effector-utils.git master:gh-pages
 
 cd -
