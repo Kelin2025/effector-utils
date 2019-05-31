@@ -5,5 +5,5 @@ module.exports = {
     sidebar: [["/", "Homepage"], ["/methods", "Methods"]],
     sidebarDepth: 2
   },
-  base: "/effector-utils"
+  base: "/effector-utils/"
 }
