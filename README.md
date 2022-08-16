@@ -1,5 +1,7 @@
 # effector-utils
 
+**DEPRECATED: Use [patronum](https://github.com/effector/patronum) instead**
+
 This library helps solve the most of Effector use-cases with less boilerplate code
 
 ## Install
